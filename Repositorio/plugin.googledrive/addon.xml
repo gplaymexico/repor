@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.3.0" encoding="UTF-8"?>
 <addon id="plugin.googledrive" name="Google Drive" version="1.3.0" provider-name="Carlos Guzman (cguZZman)">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0" />
