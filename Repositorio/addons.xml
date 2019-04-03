@@ -124,7 +124,7 @@ You can clone the project and host it in your own server.
 </addon>
 
 <addon id="plugin.video.Catoal"
-       name="[COLOR gold]Catoal[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]4[/COLOR].[COLOR red]0[/COLOR]"
+       name="[COLOR gold]Gplay[/COLOR][COLOR blue] 1[/COLOR].[COLOR yellow]2[/COLOR].[COLOR red]0[/COLOR]"
        version="5.4.0"
        provider-name="Catoal">
   <requires>
@@ -152,15 +152,15 @@ You can clone the project and host it in your own server.
         <datadir zip="true">https://raw.githubusercontent.com/gplaymexico/master/Repositorio/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Repositorio para Mi</summary>
+        <summary>Repositorio para todos</summary>
         <description></description>
         <disclaimer></disclaimer>
         <platform>all</platform>
     </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary>Creado por Catoal</summary>
-    <description>Catoal 2017</description>
+    <summary>gplay</summary>
+    <description>gplay 2019</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -234,7 +234,7 @@ You can clone the project and host it in your own server.
     </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Lista de canales GplayMexico</summary>
+    <summary lang="en">GplayMexico</summary>
     <description lang="en">Peliculas y Mas</description>
     <platform>all</platform>
   </extension>

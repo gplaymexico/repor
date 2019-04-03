@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.Catoal"
-       name="[COLOR gold]Catoal[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]4[/COLOR].[COLOR red]0[/COLOR]"
+       name="[COLOR gold]Gplay[/COLOR][COLOR blue] 1[/COLOR].[COLOR yellow]2[/COLOR].[COLOR red]0[/COLOR]"
        version="5.4.0"
        provider-name="Catoal">
   <requires>
@@ -28,15 +28,15 @@
         <datadir zip="true">https://raw.githubusercontent.com/gplaymexico/master/Repositorio/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Repositorio para Mi</summary>
+        <summary>Repositorio para todos</summary>
         <description></description>
         <disclaimer></disclaimer>
         <platform>all</platform>
     </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary>Creado por Catoal</summary>
-    <description>Catoal 2017</description>
+    <summary>gplay</summary>
+    <description>gplay 2019</description>
     <platform>all</platform>
   </extension>
 </addon>

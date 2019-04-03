@@ -37,7 +37,7 @@
     </extension>
   
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Lista de canales GplayMexico</summary>
+    <summary lang="en">GplayMexico</summary>
     <description lang="en">Peliculas y Mas</description>
     <platform>all</platform>
   </extension>
