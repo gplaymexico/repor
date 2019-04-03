@@ -124,7 +124,7 @@ You can clone the project and host it in your own server.
 </addon>
 
 <addon id="plugin.video.Catoal"
-       name="[COLOR gold]Gplay[/COLOR][COLOR blue] 1[/COLOR].[COLOR yellow]2[/COLOR].[COLOR red]0[/COLOR]"
+       name="[COLOR gold]Catoal[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]4[/COLOR].[COLOR red]0[/COLOR]"
        version="5.4.0"
        provider-name="Catoal">
   <requires>
@@ -146,21 +146,9 @@ You can clone the project and host it in your own server.
     <provides>video</provides>
   </extension>
 
-  <extension point="xbmc.addon.repository" name="Mi repositorio">
-        <info>https://raw.githubusercontent.com/gplaymexico/repor/master/Repositorio/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/gplaymexico/repor/master/Repositorio/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/gplaymexico/master/Repositorio/</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Repositorio para todos</summary>
-        <description></description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
-    </extension>
-
   <extension point="xbmc.addon.metadata">
-    <summary>gplay</summary>
-    <description>gplay 2019</description>
+    <summary>Creado por Catoal</summary>
+    <description>Catoal 2017</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -198,7 +186,7 @@ You can clone the project and host it in your own server.
 
 <addon id="plugin.video.GplayMexico"
        name="[COLOR yellow]GplayMexico[/COLOR]"
-       version="1.2"
+       version="1.0"
        provider-name="Garay">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -220,21 +208,8 @@ You can clone the project and host it in your own server.
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-
-  <extension point="xbmc.addon.repository" name="Mi repositorio">
-        <info>https://raw.githubusercontent.com/gplaymexico/repor/master/Repositorio/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/gplaymexico/repor/master/Repositorio/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/gplaymexico/master/Repositorio/</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Repositorio para Mi</summary>
-        <description></description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
-    </extension>
-
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">GplayMexico</summary>
+    <summary lang="en">Lista de canales GplayMexico</summary>
     <description lang="en">Peliculas y Mas</description>
     <platform>all</platform>
   </extension>
@@ -313,8 +288,8 @@ You can clone the project and host it in your own server.
   </extension>
 </addon>
 
-<addon id="repository.Mirepor" name="[COLOR lime]Mi Repositorio[/COLOR] Repo" version="1.2.0" provider-name="Yo Mismo">
-      <extension point="xbmc.addon.repository" name="Mi repositorio">
+<addon id="repository.Mirepor" name="[COLOR lime]Mi Repositorio[/COLOR] Repo" version="1.0.1" provider-name="Yo Mismo">
+    <extension point="xbmc.addon.repository" name="Mi repositorio">
         <info>https://raw.githubusercontent.com/gplaymexico/repor/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/gplaymexico/repor/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/gplaymexico/master/Repositorio/</datadir>
